@@ -1,0 +1,24 @@
+{
+  "name": "single-price-grid-component-master",
+  "version": "1.0.0",
+  "description": "Price Component",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simon-s-moore/single-price-grid-component/tree/3b7c22c60c280fcb7e18d5cecbc79a696eb8713e/CSS"
+  },
+  "keywords": [
+    "Frontend",
+    "Mentor",
+    "Price",
+    "Component"
+  ],
+  "author": "Simon Moore",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
